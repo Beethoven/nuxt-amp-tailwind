@@ -48,6 +48,7 @@ export default {
     mode: 'hybrid',
     // disable validator and use chrome extension https://chrome.google.com/webstore/detail/amp-validator/nmoffdblmcmgeicmolmhobpoocbbmknc?hl=en
     validator: false,
+    removeInlineStyles: false,
   },
   googleFonts: {
     families: {
