@@ -6,7 +6,7 @@
         src="https://source.unsplash.com/random/1000x300"
         layout="responsive"
         width="100"
-        height="30"
+        height="40"
       ></amp-img>
       <h1
         class="py-4 text-4xl font-semibold leading-none text-center text-bold md:text-5xl"
